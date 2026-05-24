@@ -1,7 +1,7 @@
 {
     "database": {
-        "host": "kodama.proxy.rlwy.net:49542",
-        "port": 3306,
+        "host": "kodama.proxy.rlwy.net",
+        "port": 49542,
         "user": "root",
         "password": "KPkNMTNzXkJjRKzdTdwkmKmCIQpWKYZy",
         "database": "railway"
