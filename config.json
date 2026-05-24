@@ -1,6 +1,6 @@
 {
     "database": {
-        "host": "mysql.railway.internal",
+        "host": "kodama.proxy.rlwy.net:49542",
         "port": 3306,
         "user": "root",
         "password": "KPkNMTNzXkJjRKzdTdwkmKmCIQpWKYZy",
