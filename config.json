@@ -1,10 +1,10 @@
 {
     "database": {
-        "host": "153.92.15.31",
+        "host": "mysql.railway.internal",
         "port": 3306,
-        "user": "u875409848_2026_1",
-        "password": "s*3o^*xCA",
-        "database": "u875409848_2026_1"
+        "user": "root",
+        "password": "KPkNMTNzXkJjRKzdTdwkmKmCIQpWKYZy",
+        "database": "railway"
     },
     "secret": "SUPER_SECRET_KEY_REPLACE_ME_IN_PRODUCTION",
     "emailFrom": "noreply@myapp.com",
