@@ -8,7 +8,7 @@ export default function authorize(roles: any = []) {
     if (typeof roles === 'string') {
         roles = [roles];
     }
-    //changes something
+    
     return [
         jwt({ secret, algorithms: ['HS256'] }),
         async (req: any, res: any, next: any) => {
